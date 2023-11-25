@@ -25,7 +25,7 @@ Bu proje `src/components` klasörü içinde bir kaç React bileşeni(component) 
 - [ ] `npm install` komutunu kullanarak projenin dependencylerini indirin.  
 NOT: Tavsiye edilen `node version 18` ile kurulum yapabilirsiniz.
 - [ ] `npm start` komutuyla projeyi başlatın.
-- [ ] `npm test` komutuyla projeyi test edebilirsiniz. (uygulamanın `http://localhost:1234` 'da çalışıyor halde olması lazım)
+- [ ] `npm test` komutuyla projeyi test edebilirsiniz. (uygulamanın ` ` 'da çalışıyor halde olması lazım)
 - [ ] Commitinizi pushlayın: `git push origin main`.
 
 ### Görev 2a: Minimum Uygulanabilir Ürün
@@ -39,10 +39,8 @@ NOT: Tavsiye edilen `node version 18` ile kurulum yapabilirsiniz.
 - [ ] `src/components` içindeki tüm bileşenlere işlevsellik katacaksınız.
 - [ ] Bileşenler üzerinde **Chrome'da görüntülendikleri sırayla** çalışın (kolaydan zora doğru).
 - [ ] Her dosya bir video bağlantısı ve şu şekilde özetlenebilecek bir dizi talimat içerir:
-  - Bitmiş bileşenin demosunun videosunu izleyin ve ne kadar state'e ihtiyaç duyulduğunu düşünün.
-  - State hook'u kullanarak gerekli bileşen statelerini oluşturun.
-  - JSX'i sabit kodlanmış veriler yerine durumdan türetilen bilgileri gösterecek şekilde düzeltin.
-  - Event handlers'ları, kullanıcının sayfayla etkileşim kurarak durumu güncellemesine izin verecek şekilde düzeltin.
+  - Bitmiş bileşenin demosunun npm  start
+   kullanıcının sayfayla etkileşim kurarak durumu güncellemesine izin verecek şekilde düzeltin.
 
 ### Görev 3: Ek Problemler
 
